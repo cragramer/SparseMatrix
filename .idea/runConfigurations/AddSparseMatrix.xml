@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AddSparseMatrix" type="Application" factoryName="Application" nameIsGenerated="true">
+    <output_file path="D:\OneDrive - CUHK-Shenzhen\大三下\CSC3100\hw\2\put.txt" is_save="true" />
+    <option name="MAIN_CLASS_NAME" value="AddSparseMatrix" />
+    <module name="hw2" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="INPUT_FILE" value="$PROJECT_DIR$/../addInput.txt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
